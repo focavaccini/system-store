@@ -1,0 +1,16 @@
+C:\Course\system-store\bin\Debug\net5.0\system-store.exe
+C:\Course\system-store\bin\Debug\net5.0\system-store.deps.json
+C:\Course\system-store\bin\Debug\net5.0\system-store.runtimeconfig.json
+C:\Course\system-store\bin\Debug\net5.0\system-store.runtimeconfig.dev.json
+C:\Course\system-store\bin\Debug\net5.0\system-store.dll
+C:\Course\system-store\bin\Debug\net5.0\ref\system-store.dll
+C:\Course\system-store\bin\Debug\net5.0\system-store.pdb
+C:\Course\system-store\obj\Debug\net5.0\system-store.csprojAssemblyReference.cache
+C:\Course\system-store\obj\Debug\net5.0\system-store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course\system-store\obj\Debug\net5.0\system-store.AssemblyInfoInputs.cache
+C:\Course\system-store\obj\Debug\net5.0\system-store.AssemblyInfo.cs
+C:\Course\system-store\obj\Debug\net5.0\system-store.csproj.CoreCompileInputs.cache
+C:\Course\system-store\obj\Debug\net5.0\system-store.dll
+C:\Course\system-store\obj\Debug\net5.0\ref\system-store.dll
+C:\Course\system-store\obj\Debug\net5.0\system-store.pdb
+C:\Course\system-store\obj\Debug\net5.0\system-store.genruntimeconfig.cache

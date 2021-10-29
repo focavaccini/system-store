@@ -1,3 +1,4 @@
+using System.Globalization;
 namespace system_store{
     class Product{
         public string Name { get; set; }
